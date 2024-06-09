@@ -22,7 +22,7 @@ def findEncodings(imagesList):
         encodeList.append(encode)
     return encodeList
 
-print("Encoding Started")
+print("Encoding Starte")
 encodeListKnown=findEncodings(imgList)
 encodeListKnownWithIds=[encodeListKnown,studentIds]
 
